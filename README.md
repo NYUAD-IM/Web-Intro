@@ -15,6 +15,7 @@ craig.protzel@nyu.edu
 * [Google Maps Javascript API Key](https://developers.google.com/maps/documentation/javascript/)
 
 #### Resources
+* [Web Fundamentals Lecture Slides](https://dl.dropboxusercontent.com/u/9648298/CommLab_Spring2016_Web_upload.pdf)
 * Google Maps
   * [Google Maps Javascript API](https://developers.google.com/maps/documentation/javascript/tutorial#Audience)
   * [Google Maps Example](https://developers.google.com/maps/documentation/javascript/tutorial)

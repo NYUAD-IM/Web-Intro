@@ -1,13 +1,13 @@
-WORKSHOP: Web Intro + Google Maps 101
-======================================
+WORKSHOP: Web Intro & Google Maps
+=================================
 
-Prof. Craig Protzel
+Prof. Craig Protzel  
 craig.protzel@nyu.edu
 
 #### Objectives
-* Introduce the fundamentals of client-side web development, specifically HTTP Requests, client-side files, markup and code
+* Introduce fundamentals of client-side web development, specifically HTTP Requests, client-side files, markup and code
 * Gain a basic understanding of HTML, CSS, and JS
-* Implement an "interactive" web page with a google maps embed and some click events
+* Implement an "interactive" web page with an embedded google map and some click events
 
 #### Requirements
 * Laptop + WiFi
